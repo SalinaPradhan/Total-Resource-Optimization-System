@@ -1,0 +1,7 @@
+project_id = "djnhvbdmkazmugdbgwkp"
+
+[functions.validate-and-insert]
+verify_jwt = false
+
+[functions.generate-timetable]
+verify_jwt = false
